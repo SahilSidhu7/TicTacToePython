@@ -12,4 +12,4 @@ def Move(Places):
             run = False
         else:
             print("Invalid Input")
-    return Move   
+    return Move
